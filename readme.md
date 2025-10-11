@@ -109,7 +109,7 @@ If you encounter any issues, here are a few common solutions.
 | **No Data is Displayed in the App** | Ensure you have granted Peek the necessary network permissions in `System Settings > Privacy & Security`. A restart of the app may be required after granting permissions. |
 | **Reported Speeds Seem Inaccurate** | Peek reports speeds based on raw network data packets from your network interface. This may differ from online speed tests, which measure throughput to a specific remote server and can be affected by latency and server load. |
 
-If your issue persists, please feel free to [open an issue](https://github.com/your-username/peek/issues) on this repository.
+If your issue persists, please feel free to [open an issue](https://github.com/alessgorgo/Peek/issues) on this repository.
 
 ***
 
